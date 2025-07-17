@@ -1,2 +1,3 @@
-# Rovian-career-website
-A carrier website for Rovian
+# DevOps by Example / Python
+
+This project covers real-world DevOps examples implemented using Python...
